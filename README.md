@@ -10,15 +10,15 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 ## Running the Lab Notebooks in Binder:
 
-**Lab 01:** "Supervised Deep Learning - ANNs" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseFCS/master?filepath=lab_01%2Ffcs_colab_01.ipynb))
+**Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseFCS/master?filepath=lab_01%2Ffcs_colab_01.ipynb))
 
-**Lab 02:** "Supervised Deep Learning - CNNs" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseFCS/master?filepath=lab_02%2Ffcs_colab_02.ipynb))
+**Lab 02:** "Maschinelle Lern- und Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseFCS/master?filepath=lab_02%2Ffcs_colab_02.ipynb))
 
 ## Running the Lab Notebooks in Google's Colab:
 
-**Lab 01:** "Supervised Deep Learning - ANNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_01/fcs_colab_01.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_01/fcs_colab_01_gpu.ipynb))
+**Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_01/fcs_colab_01.ipynb))
 
-**Lab 02:** "Supervised Deep Learning - CNNs" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_02/fcs_colab_02.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_02/fcs_colab_02_gpu.ipynb))
+**Lab 02:** "Maschinelle Lern- und Analyseverfahren" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_02/fcs_colab_02.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_02/fcs_colab_02_gpu.ipynb))
 
 ## Running the Lab Notebooks in Microsoft's Azure Cloud:
 
