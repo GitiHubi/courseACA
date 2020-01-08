@@ -22,7 +22,7 @@ Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte k
 
 ## Ausführung der Lab Notebooks in der Microsoft's Azure Cloud:
 
-Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseFCS)
+Clonen der Notebooks nach Microsoft Azure: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseFCS)
 
 ## Notwendige Python Pakete
 
