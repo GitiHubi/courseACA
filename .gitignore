@@ -1,0 +1,13 @@
+*.py[co]
+__pycache__
+*.egg-info
+*~
+*.bak
+.ipynb_checkpoints
+.DS_Store
+\#*#
+.#*
+
+lab_00/.ipynb_checkpoints
+lab_01/.ipynb_checkpoints
+lab_02/.ipynb_checkpoints
