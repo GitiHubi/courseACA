@@ -4,13 +4,13 @@
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
 
-Eine Reihe von einführenden Lab Notebooks, die wir für den **ACA Course on Internal Audit Knowledge Elements** an der Universität St. Gallen erstellt haben. Der Inhalt der Hefte basiert auf Python, IPython Notebook und PyTorch.
+Eine Reihe von einführenden Jupyter Lab Notebooks, die wir für den **ACA Course on Internal Audit Knowledge Elements** an der Universität St. Gallen erstellt haben. Die Inhalte der Notebooks basieren auf Python, IPython Notebook und PyTorch.
 
-Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte kleinere Fehler sowie Ecken und Kanten ;)
+Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte kleinere Fehler sowie ein paar Ecken und Kanten ;)
 
 ## Ausführung der Lab Notebooks in Binder:
 
-**Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseFCS/master?filepath=lab_01%2Ffcs_colab_01.ipynb))
+**Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb))
 
 **Lab 02:** "Maschinelle Lern- und Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseFCS/master?filepath=lab_02%2Ffcs_colab_02.ipynb))
 
@@ -29,3 +29,5 @@ Clonen der Notebooks nach Microsoft Azure: [![Azure Notebooks](https://notebooks
 Installation der notwendigen Python Pakete via `pip install -r requirements.txt`.
 
 ## Fragen?
+
+Bei Rückfragen kontaktieren Sie uns bitte unter aiml-teaching.ics@unisg.ch.
