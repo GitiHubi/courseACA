@@ -31,4 +31,3 @@ Installation der notwendigen Python Pakete via `pip install -r requirements.txt`
 ## Fragen?
 
 Bei Rückfragen kontaktieren Sie uns bitte unter aiml-teaching.ics@unisg.ch.
-Bei Rückfragen kontaktieren Sie uns bitte unter marco<punkt>schreyer<at>unisg.ch
