@@ -4,9 +4,9 @@
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
 
-Eine Reihe von einführenden Lab Notebooks, die wir für den **ACA Course on Internal Audit Knowledge Elements** an der Universität St. Gallen erstellt haben. Der Inhalt der Hefte basiert auf Python, IPython Notebook und PyTorch.
+Eine Reihe von einführenden Jupyter Lab Notebooks, die wir für den **ACA Course on Internal Audit Knowledge Elements** an der Universität St. Gallen erstellt haben. Die Inhalte der Notebooks basieren auf Python, IPython Notebook und PyTorch.
 
-Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte kleinere Fehler sowie Ecken und Kanten ;)
+Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte kleinere Fehler sowie ein paar Ecken und Kanten ;)
 
 ## Ausführung der Lab Notebooks in Binder:
 
