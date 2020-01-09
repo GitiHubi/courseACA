@@ -16,13 +16,13 @@ Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte k
 
 ## Ausführung der Lab Notebooks in Google's Colab:
 
-**Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_01/fcs_colab_01.ipynb))
+**Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb))
 
 **Lab 02:** "Maschinelle Lern- und Analyseverfahren" (CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_02/fcs_colab_02.ipynb)) (GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseFCS/blob/master/lab_02/fcs_colab_02_gpu.ipynb))
 
 ## Ausführung der Lab Notebooks in der Microsoft's Azure Cloud:
 
-Clonen der Notebooks nach Microsoft Azure: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseFCS)
+Clonen der Notebooks nach Microsoft Azure: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseACA)
 
 ## Notwendige Python Pakete
 
