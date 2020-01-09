@@ -1,4 +1,4 @@
-## ACA Lehrgang "Internal Audit Knowledge Elements", Universität St. Gallen
+## ACA Lehrgang, Universität St. Gallen
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
