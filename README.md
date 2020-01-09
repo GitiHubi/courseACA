@@ -29,3 +29,5 @@ Clonen der Notebooks nach Microsoft Azure: [![Azure Notebooks](https://notebooks
 Installation der notwendigen Python Pakete via `pip install -r requirements.txt`.
 
 ## Fragen?
+
+Bei Rückfragen kontaktieren Sie uns bitte unter marco<punkt>schreyer<at>unisg.ch
