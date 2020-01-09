@@ -1,4 +1,4 @@
-## ACA Course on Internal Audit Knowledge Elements
+## ACA Lehrgang "Internal Audit Knowledge Elements", Universität St. Gallen, 15. Januar 2020
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
