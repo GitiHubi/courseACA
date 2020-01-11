@@ -14,7 +14,7 @@ Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte k
 
 **Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb))
 
-**Lab 02:** "Maschinelle Lern- und Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab_02.ipynb))
+**Lab 02:** "Maschinelle Lern- und Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb))
 
 ## Ausführung der Lab Notebooks in Google's Colab:
 
