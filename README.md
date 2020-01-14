@@ -26,7 +26,7 @@ Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte k
 
 **Lab 02:** "Maschinelle Lern- und Analyseverfahren" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb))
 
-**Lab 03:** "Maschinelle Lern- und Analyseverfahren" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_lab03.ipynb))
+**Lab 03:** "Mathematisch-Statistische Analyseverfahren" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_lab03.ipynb))
 
 ## Ausführung der Lab Notebooks in der Microsoft's Azure Cloud:
 
