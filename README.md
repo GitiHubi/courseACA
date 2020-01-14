@@ -16,6 +16,8 @@ Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte k
 
 **Lab 02:** "Maschinelle Lern- und Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb))
 
+**Lab 03:** "Mathematisch-Statistische Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb))
+
 ## Ausführung der Lab Notebooks in Google's Colab:
 
 **Lab 00:** "Jupyter Notebook Analyseumgebung" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab00/aca_lab00.ipynb))
@@ -23,6 +25,8 @@ Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte k
 **Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb))
 
 **Lab 02:** "Maschinelle Lern- und Analyseverfahren" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb))
+
+**Lab 03:** "Maschinelle Lern- und Analyseverfahren" ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_lab03.ipynb))
 
 ## Ausführung der Lab Notebooks in der Microsoft's Azure Cloud:
 
