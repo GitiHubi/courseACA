@@ -32,8 +32,11 @@ A set of introductory Jupyter Lab Notebooks we created for the **ACA Course on I
 
 ## Installation of Required Python Packages
 
-Installation der notwendigen Python Pakete via `pip install -r requirements.txt`.
+Installation of the necessary Python packages via `pip install -r requirements.txt`.
+
+Upon succesfull package installtion you may want to test you setup using the following Jupyter Notebook: 
+([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab00%2Faca_lab00.ipynb))
 
 ## Questions?
 
-If you have any questions, please contact us at: aiml-teaching (dot) ics (at) unisg (dot) ch
+If you have any questions, please don' hesitate contact us via: **aiml-teaching (dot) ics (at) unisg (dot) ch**
