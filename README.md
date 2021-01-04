@@ -6,13 +6,15 @@
 
 A set of introductory Jupyter Lab Notebooks we created for the **ACA Course on Internal Auditing** at the University of St. Gallen. The content of the notebooks is based on Python, IPython Notebook and PyTorch. The creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
 
+Further details on the **ACA Internal Auditing Programme** content und structure can found via the following link: (https://aca.unisg.ch/en/arbeitsgebiete/ruud/education)
+
 ## (a) Rule-Based Audit Data Analytics:
 
-**Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb))
+**Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb))
 
 ## (b) Statistical Audit Data Analytics:
 
-**Lab 02:** "Benford-Newcomb Law Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb))
+**Lab 02:** "Benford-Newcomb Law Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_lab03.ipynb))
 
 ## (c) Machine Learning Audit Data Analytics:
 
@@ -22,7 +24,7 @@ A set of introductory Jupyter Lab Notebooks we created for the **ACA Course on I
 
 Installation of the necessary Python packages via `pip install -r requirements.txt`.
 
-Upon succesfull package installtion you may want to test you setup using the following Jupyter Notebook:
+Upon succesfull package installation you may want to test you setup using the following Jupyter Notebook:
 
 **Lab 00:** "Analytics Environment Test Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab00%2Faca_lab00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab00/aca_lab00.ipynb))
 
