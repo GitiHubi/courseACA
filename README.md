@@ -1,8 +1,8 @@
-## ACA Course "Internal Auditing", University of St. Gallen
+## ACA Course "Audit Data Analytics", University of St. Gallen
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
 
-A set of introductory Jupyter Lab Notebooks we created for the **ACA Course on Internal Auditing** at the University of St. Gallen. The content of the notebooks is based on Python, IPython Notebook and PyTorch. The creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
+A set of introductory Jupyter Lab Notebooks we created for the **Audit Data Analytics Course** as part of the **ACA Internal Auditing Programme** at the University of St. Gallen. The content of the notebooks is based on Python, IPython Notebook and PyTorch. The creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
 
 Further details on the **ACA Internal Auditing Programme** content und structure can found via the following link (in German): (https://aca.unisg.ch/en/arbeitsgebiete/ruud/education)
 
