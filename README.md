@@ -6,7 +6,7 @@
 
 A set of introductory Jupyter Lab Notebooks we created for the **ACA Course on Internal Auditing** at the University of St. Gallen. The content of the notebooks is based on Python, IPython Notebook and PyTorch. The creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
 
-Further details on the **ACA Internal Auditing Programme** content und structure can found via the following link: (https://aca.unisg.ch/en/arbeitsgebiete/ruud/education)
+Further details on the **ACA Internal Auditing Programme** content und structure can found via the following link (in German): (https://aca.unisg.ch/en/arbeitsgebiete/ruud/education)
 
 ## (a) Rule-Based Audit Data Analytics:
 
@@ -18,7 +18,7 @@ Further details on the **ACA Internal Auditing Programme** content und structure
 
 ## (c) Machine Learning Audit Data Analytics:
 
-**Lab 02:** "Autoencoder Neural Networks Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb))
+**Lab 03:** "Autoencoder Neural Networks Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb))
 
 ## Installation of Required Python Packages
 
