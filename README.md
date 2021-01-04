@@ -24,7 +24,7 @@ Installation of the necessary Python packages via `pip install -r requirements.t
 
 Upon succesfull package installtion you may want to test you setup using the following Jupyter Notebook:
 
-**Lab 00:** "Environment Test Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab00%2Faca_lab00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab00/aca_lab00.ipynb))
+**Lab 00:** "Analytics Environment Test Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab00%2Faca_lab00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab00/aca_lab00.ipynb))
 
 ## Questions?
 
