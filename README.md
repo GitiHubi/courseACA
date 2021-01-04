@@ -1,12 +1,12 @@
-## ACA Lehrgang, Universität St. Gallen
+## ACA Lehrgang, University of St. Gallen
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
 
-Eine Reihe von einführenden Jupyter Lab Notebooks, die wir für den **ACA Course on Internal Audit Knowledge Elements** an der Universität St. Gallen erstellt haben. Die Inhalte der Notebooks basieren auf Python, IPython Notebook und PyTorch.
+A set of introductory Jupyter Lab Notebooks we created for the **ACA Course on Internal Audit Knowledge Elements** at the University of St. Gallen. The content of the notebooks is based on Python, IPython Notebook and PyTorch.
 
-Die Erstellung der Notebooks ist derzeit in Arbeit, erwarten Sie deshalb bitte kleinere Fehler sowie ein paar Ecken und Kanten ;)
+The creation of the notebooks is currently in progress, so please expect minor bugs as well as some rough edges ;)
 
 ## Ausführung der Lab Notebooks in Binder:
 
