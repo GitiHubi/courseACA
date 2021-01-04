@@ -10,15 +10,15 @@ Further details on the **ACA Internal Auditing Programme** content und structure
 
 ## (a) Rule-Based Audit Data Analytics:
 
-**Lab 01:** "Indikatorbasierte Analyseverfahren" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb))
+**Lab 01:** "Rule-Based Analytics Notebook" (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb))
 
 ## (b) Statistical Audit Data Analytics:
 
-**Lab 02:** "Benford-Newcomb Law Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_lab03.ipynb))
+**Lab 02:** "Benford-Newcomb Law Notebook" (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_lab03.ipynb))
 
 ## (c) Machine Learning Audit Data Analytics:
 
-**Lab 03:** "Autoencoder Neural Networks Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb))
+**Lab 03:** "Autoencoder Neural Networks Notebook" (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb))
 
 ## Installation of Required Python Packages
 
