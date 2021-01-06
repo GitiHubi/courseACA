@@ -18,7 +18,7 @@ Further details on the **ACA Internal Auditing Programme** content und structure
 
 ## (c) Machine Learning Audit Data Analytics:
 
-**Lab 03:** "Autoencoder Neural Networks Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_lab03.ipynb))
+**Lab 03:** "Autoencoder Neural Networks Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_colab03.ipynb))
 
 ## Installation of Required Python Packages
 
