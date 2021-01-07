@@ -39,4 +39,4 @@ Installation of the necessary Python packages via `pip install -r requirements.t
 
 ## Questions?
 
-If you have any questions, please don' hesitate contact us via: **marco (dot) schreyer (at) unisg (dot) ch**.
+If you have any ideas, questions and remarks, please don' hesitate contact us via: **marco (dot) schreyer (at) unisg (dot) ch**.
