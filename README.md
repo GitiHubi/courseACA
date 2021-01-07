@@ -10,7 +10,7 @@ Further details on the **ACA Internal Auditing Programme** content und structure
 
 ## Python Start-Up and Refresh Notebooks:  
 
-We created the following preperatory Jupyter Notebooks that you might want to use to (i) test your Python installation setup and (ii) refresh your Python programming skills:
+We created the following preperatory Jupyter Notebooks that you might want to use to your the Python installation setup, familiarize yourself with Jupyter Notebooks, and refresh your Python programming skills:
 
 **Lab P1:** "Jupyter Test Notebook and Python 101" (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab00%2Faca_lab00.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab00/aca_lab00.ipynb))
 
