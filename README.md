@@ -16,22 +16,22 @@ Further details on the **ACA Internal Auditing Programme** content und structure
 
 We created the following preperatory Jupyter Notebooks that you might want to use to your the Python installation setup, familiarize yourself with Jupyter Notebooks, and refresh your Python programming skills:
 
-- Lab P1: **"Jupyter Test Notebook and Python 101"** (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=labP1%2Faca_labP1.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/labP1/aca_labP1.ipynb))
+- Lab P1: **Jupyter Test Notebook and Python 101** (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=labP1%2Faca_labP1.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/labP1/aca_labP1.ipynb))
 
 <!-- **Lab P2:** "" (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab00%2Faca_lab00.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab00/aca_lab00.ipynb))
 --> 
 
 ## Rule-Based Audit Data Analytics:
 
-- Lab 01: **'Rule-Based Analytics Notebook'** ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb))
+- Lab 01: **Rule-Based Analytics Notebook** ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb))
 
 ## Statistical Audit Data Analytics:
 
-- Lab 02: **'Benford-Newcomb Law Notebook'** ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb))
+- Lab 02: **Benford-Newcomb Law Notebook** ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb))
 
 ## Machine Learning Audit Data Analytics:
 
-- Lab 03: **'Autoencoder Neural Networks Notebook'** ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_colab03.ipynb))
+- Lab 03: **Autoencoder Neural Networks Notebook** ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_colab03.ipynb))
 
 ## Installation of Required Python Packages
 
