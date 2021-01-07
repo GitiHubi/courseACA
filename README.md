@@ -8,6 +8,15 @@ Further details on the **ACA Internal Auditing Programme** content und structure
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
+## Python Refresher Notebooks:  
+
+We created the following preperatory Jupyter Notebooks that you might want to use to (i) test your Python installation setup and (ii) refresh your Python programming skills:
+
+**Lab P1:** "Jupyter Test Notebook and Python 101" (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab00%2Faca_lab00.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab00/aca_lab00.ipynb))
+
+<!-- **Lab P2:** "" (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab00%2Faca_lab00.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab00/aca_lab00.ipynb))
+--> 
+
 ## (a) Rule-Based Audit Data Analytics:
 
 **Lab 01:** "Rule-Based Analytics Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb))
@@ -20,13 +29,11 @@ Further details on the **ACA Internal Auditing Programme** content und structure
 
 **Lab 03:** "Autoencoder Neural Networks Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_colab03.ipynb))
 
+## (c) Machine Learning Audit Data Analytics:
+
 ## Installation of Required Python Packages
 
 Installation of the necessary Python packages via `pip install -r requirements.txt`.
-
-Upon succesfull package installation you may want to test you setup using the following Jupyter Notebook:
-
-**Lab 00:** "Analytics Environment Test Notebook" (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab00%2Faca_lab00.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab00/aca_lab00.ipynb))
 
 ## Questions?
 
