@@ -1,6 +1,6 @@
 ## ACA Course 'Audit Data Analytics'
 
-A set of introductory Jupyter Lab Notebooks we created for the **Audit Data Analytics Course** as part of the **ACA Internal Auditing Programme** at the University of St. Gallen. The content of the notebooks is based on the Python programming language using NumPy, Pandas, Matplotlib and PyTorch. The creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
+A set of introductory Jupyter Lab Notebooks we created for the **Audit Data Analytics Course** as part of the **ACA Internal Auditing Programme** at the University of St. Gallen. The content of the notebooks is based on the Python programming language using popular Python libraries, such as **NumPy**, **Pandas**, **Matplotlib** and **PyTorch*. The creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
 
