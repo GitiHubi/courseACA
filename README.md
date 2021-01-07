@@ -8,7 +8,7 @@ Further details on the **ACA Internal Auditing Programme** content und structure
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-## Python Refresher Notebooks:  
+## Python Start-Up and Refresh Notebooks:  
 
 We created the following preperatory Jupyter Notebooks that you might want to use to (i) test your Python installation setup and (ii) refresh your Python programming skills:
 
@@ -37,4 +37,4 @@ Installation of the necessary Python packages via `pip install -r requirements.t
 
 ## Questions?
 
-If you have any questions, please don' hesitate contact us via: **aiml-teaching (dot) ics (at) unisg (dot) ch**.
+If you have any questions, please don' hesitate contact us via: **marco (dot) schreyer (at) unisg (dot) ch**.
