@@ -2,7 +2,7 @@
 
 The **Audit Data Analytics** repository consists of Jupyter Notebooks we created for the **Audit Data Analytics Course** of the **ACA Internal Auditing Programme** at the University of St. Gallen (HSG). The content of the notebooks is based on the Python programming language using popular Python libraries, such as **NumPy**, **Pandas**, **Matplotlib** and **PyTorch**. 
 
-Happy **Audit Data Analysis**!
+Happy **Audit Data Analytics**!
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
 
