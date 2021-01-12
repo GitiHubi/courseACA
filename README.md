@@ -14,7 +14,7 @@ Please note, the creation of the distinct notebooks is currently work in progres
 
 ## Python Start-Up and Refresh Notebooks:  
 
-We created the following preperatory Jupyter Notebooks that you might want to use to your the Python installation setup, familiarize yourself with Jupyter Notebooks, and refresh your Python programming skills:
+We created the following preperatory Jupyter Notebooks that you might want to use to test your the Python installation setup, familiarize yourself with Jupyter Notebooks, and refresh your Python programming skills:
 
 - Lab P1: **Jupyter Test Notebook and Python 101** (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=labP1%2Faca_labP1.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/labP1/aca_labP1.ipynb))
 
