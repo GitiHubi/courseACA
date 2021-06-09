@@ -1,20 +1,20 @@
-## ACA Course 'Audit Data Analytics'
+## ACA Course - Audit Data Analytics
 
-The **Audit Data Analytics** repository consists of Jupyter Notebooks we created for the **Audit Data Analytics Course** of the **ACA Internal Auditing Programme** at the University of St. Gallen. The content of the notebooks is based on the Python programming language using popular Python libraries, such as **NumPy**, **Pandas**, **Matplotlib** and **PyTorch**. 
+The **Audit Data Analytics** repository consists of Jupyter Notebooks we created for the **Audit Data Analytics Course** of the **ACA Internal Auditing Programme** at the University of St. Gallen (HSG). The content of the notebooks is based on the Python programming language using popular Python libraries, such as **NumPy**, **Pandas**, **Matplotlib** and **PyTorch**. 
 
-Please note, the creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
-
-Happy **Audit Data Analysis**!
+Happy **Audit Data Analytics**!
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
 
-Further details on the **ACA Internal Auditing Programme** content und structure can found via the following link (in German): (https://aca.unisg.ch/en/arbeitsgebiete/ruud/education)
+Further details on the **ACA Internal Auditing Programme** content und structure can found via the following [link](https://aca.unisg.ch/en/arbeitsgebiete/ruud/education) (in German). The programm is run by the Chair of [Internal Control & Internal Audit](https://aca.unisg.ch/en/arbeitsgebiete/ruud/team) and team at the University of St.Gallen (HSG).
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
+Please note, the creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
+
 ## Python Start-Up and Refresh Notebooks:  
 
-We created the following preperatory Jupyter Notebooks that you might want to use to your the Python installation setup, familiarize yourself with Jupyter Notebooks, and refresh your Python programming skills:
+We created the following preperatory Jupyter Notebooks that you might want to use to test your the Python installation setup, familiarize yourself with Jupyter Notebooks, and refresh your Python programming skills:
 
 - Lab P1: **Jupyter Test Notebook and Python 101** (Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=labP1%2Faca_labP1.ipynb), Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/labP1/aca_labP1.ipynb))
 
