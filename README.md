@@ -12,6 +12,19 @@ Further details on the **ACA Internal Auditing Programme** content und structure
 
 Please note, the creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
 
+## Lab Notebooks
+
+| Lab | Date         |Topic                                                                 | Binder Launcher(s) | Colab Launcher(s) |
+|:---:|:------------:|----------------------------------------------------------------------|:--------:|:--------:|
+|  00 | Prerequisite | Jupyter Test Notebook and Python 101                                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=labP1%2Faca_labP1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/labP1/aca_labP1.ipynb)|
+|  01 | Prerequisite | Fundamentals of Python Programming                                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=labP2%2Faca_labP2.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/labP2/aca_labP2.ipynb)|
+|  03 | April 21st | Rule-Based Analytics Notebook               | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb)|
+|  -  | April 28th | Traditional Machine Learning II  / Self-Coding   |  Q&A lab   |  Q&A lab  |
+|  04 |  May 5th   | Deep Learning I - ANNs                        | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb) |
+|  05 |  May 12th  | Deep Learning II - CNNs                    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_colab03.ipynb) |
+|  -  |  May 19th  | Self-Coding                                                            |  Q&A lab  |  Q&A lab    |
+|  -  |  May 26th  | Coding Challenge - Submission Deadline                                 |  No lab   |  No lab   |
+
 ## Python Start-Up and Refresh Notebooks:  
 
 We created the following preperatory Jupyter Notebooks that you might want to use to test your the Python installation setup, familiarize yourself with Jupyter Notebooks, and refresh your Python programming skills:
@@ -31,6 +44,9 @@ We created the following preperatory Jupyter Notebooks that you might want to us
 ## Machine Learning Audit Data Analytics:
 
 - Lab 03: **Autoencoder Neural Networks Notebook** ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_colab03.ipynb))
+
+
+This is currently work in progress so expect minor errors and some rough edges ;)
 
 ## Getting Started
 
