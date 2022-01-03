@@ -37,13 +37,13 @@ Weitere Informationen können Sie der [Binder-Dokumentation](https://mybinder.re
 
 #### [Option 2] Google Colab Umgebung ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/main))
 
-In Analogie zu Binder lassen sich auch Colab Notebooks starten. Klicken Sie hierzu auf den Colab-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Google Cloud bereitgestellt. Hierzu benötigen Sie jedoch einen Google Account (z.B. Ihre Anmeldedaten für Google Mail). Nach erfolgreicher Anmeldung können Sie auch Colab kostenfrei nutzen. Colab bietet im Vergleich zu Binder die nachfolgenden beiden Vorteile: (1) Notebooks können direkt in Google Drive gespeichert und von dort gelesen werden; (2) Colab stellt schnelle Rechenressourcen z.B. GPU's kostenfrei zur Verfügung.
+* In Analogie zu Binder lassen sich auch Colab Notebooks starten. Klicken Sie hierzu auf den Colab-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Google Cloud bereitgestellt. Hierzu benötigen Sie jedoch einen Google Account (z.B. Ihre Anmeldedaten für Google Mail). Nach erfolgreicher Anmeldung können Sie auch Colab kostenfrei nutzen. Colab bietet im Vergleich zu Binder die nachfolgenden beiden Vorteile: (1) Notebooks können direkt in Google Drive gespeichert und von dort gelesen werden; (2) Colab stellt schnelle Rechenressourcen z.B. GPU's kostenfrei zur Verfügung.
 
 Weitere Informationen können Sie der [Colab-Dokumentation](https://colab.research.google.com) entnehmen.
 
 #### [Option 3] Lokale Python Umgebung ([![Install Python](https://img.shields.io/badge/python-v3.7-green)](https://python.org), [![Install Anaconda](https://img.shields.io/badge/conda-v3.7.1-green)](https://anaconda.com))
 
-Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig, Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält.
+* Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig, Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält.
 
 Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
 [detaillierte Installationsanleitungen](https://docs.anaconda.com/anaconda/install/) finden. 
