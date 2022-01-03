@@ -7,7 +7,7 @@ Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und ver
 
 Wir wünschen Ihnen viel Freude bei Ihrer **Revisorischen Datenanalyse**!
 
-![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
+![Course Banner](https://github.com/GitiHubi/courseACA/blob/main/banner.png)
 
 ## Jupyter Lab Notebooks
 
