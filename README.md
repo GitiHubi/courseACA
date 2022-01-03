@@ -43,11 +43,9 @@ Weitere Informationen können Sie auch der [Colab-Dokumentation](https://colab.r
 
 #### [Option 3] Lokale Python Umgebung ([![Install Python](https://img.shields.io/badge/python-v3.7-green)](https://python.org), [![Install Anaconda](https://img.shields.io/badge/conda-v3.7.1-green)](https://anaconda.com))
 
-Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig, Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält.
+Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig, Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält. Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Website herunterladen, oder einfach das gesamte Repository auf Ihren Computer klonen. Wenn Sie Hilfe bei der Ausführung von Python und/oder Jupyter Notebooks benötigen, **zögern Sie bitte nicht, uns zu kontaktieren** (siehe unten)!
 
 Weitere Informationen können Sie auch den [Anaconda Installationsanleitungen](https://docs.anaconda.com/anaconda/install/) entnehmen. 
-
-Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Website herunterladen, oder einfach das gesamte Repository auf Ihren Computer klonen. Wenn Sie Hilfe bei der Ausführung von Python und/oder Jupyter Notebooks benötigen, **zögern Sie bitte nicht, uns zu kontaktieren** (siehe unten)!
 
 ## Fragen oder Anregungen?
 
