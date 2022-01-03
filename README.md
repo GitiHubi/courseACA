@@ -23,6 +23,8 @@ Nachfolgend finden Sie unsere aktuellen Notebooks:
 
 Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwickeln, rechnen Sie also bitte mit kleineren Fehlern und einigen Ecken und Kanten ;)
 
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
 ## Wie werden die Notebooks ausgeführt?
 
 Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://mybinder.org/) bzw. Google Colab (https://colab.research.google.com/) oder lokal über eine Python Installation Ihres Computers ausführen.
@@ -39,7 +41,7 @@ In Analogie zu Binder lassen sich auch Colab Notebooks starten. Klicken Sie hier
 
 Weitere Informationen können Sie der [Colab-Dokumentation](https://colab.research.google.com) entnehmen.
 
-#### [Option 3] Lokale Python Umgebung
+#### [Option 3] Lokale Python Umgebung (![Install Python]((![GitHub last commit](https://img.shields.io/github/last-commit/GitiHubi/courseACA?label=Python&logo=Download&style=plastic))))
 
 Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig, Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält.
 
