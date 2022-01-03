@@ -1,65 +1,55 @@
-## ACA Course - Audit Data Analytics in Python
 
-The **Audit Data Analytics in Python** repository consists of Jupyter Notebooks we created for the **ACA Internal Auditing Programme** at the University of St. Gallen (HSG). The content of the notebooks is based on the Python programming language using popular Python libraries, such as **NumPy**, **Pandas**, **Matplotlib** and **PyTorch**. 
+## Frankfurt School Seminar - Forensische Datenanalysen
 
-Happy **Audit Data Analytics**!
+Das **Forensische Datenanalysen** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für den [Lehrgang Internal Auditing] (https://aca.unisg.ch/de/education/internalauditingprogramme) an der [Universität St.Gallen (HSG)](https://www.unisg.ch/) erstellt haben. 
+
+Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und verwendet diverse zusätzliche Python-Bibliotheken, wie beispielsweise die **NumPy**, **Pandas**, **Matplotlib**, **Seaborn** oder **PyTorch** Bibliothek. 
+
+Wir wünschen Ihnen viel Freude bei Ihrer **Revisorischen Datenanalyse**!
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
 
-Further details on the **ACA Internal Auditing Programme** content und structure can found via the following [link](https://aca.unisg.ch/en/arbeitsgebiete/ruud/education) (in German). The programm is run by the chairs of [Internal Control & Internal Audit](https://aca.unisg.ch/en/arbeitsgebiete/ruud/team) and [Artificial Intelligence & Machine Learning](https://ics.unisg.ch/chair-aiml-borth/) at the University of St.Gallen (HSG).
+## Jupyter Lab Notebooks
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+Nachfolgend finden Sie unsere aktuellen Notebooks: 
 
-## Lab Notebooks
-
-We created the following lab Jupyter Notebooks:
-
-| Lab | Date         |Topic                                                                 | Binder Launcher(s) | Colab Launcher(s) |
-|:---:|:------------:|----------------------------------------------------------------------|:--------:|:--------:|
-|  00 | Prerequisite | Jupyter Test Notebook and Python 101                                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=labP1%2Faca_labP1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/labP1/aca_labP1.ipynb)|
-|  01 | Prerequisite | Fundamentals of Python Programming                                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=labP2%2Faca_labP2.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/labP2/aca_labP2.ipynb)|
-|  02 | April 21st | Rule-Based Analytics Notebook               | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab01%2Faca_lab01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab01/aca_lab01.ipynb)|
-|  -  | April 28th | Self-Coding                                                            |  Q&A lab   |  Q&A lab   |
-|  03 |  May 5th   | Statistical Analytics Notebook                      | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab02%2Faca_lab02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab02/aca_lab02.ipynb) |
-|  04 |  May 12th  | Machine Learning Notebook                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=lab03%2Faca_lab03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/master/lab03/aca_colab03.ipynb) |
-|  -  |  May 19th  | Self-Coding                                                            |  Q&A lab  |  Q&A lab    |
-|  -  |  May 26th  | Coding Challenge - Submission Deadline                                 |  No lab   |  No lab     |
+| Lab | Datum        |Thema                                                  | Binder Launcher(s) | Colab Launcher(s) |
+|:---:|:------------:|-------------------------------------------------------|:--------:|:--------:|
+|  00 | Vorbereitung | Jupyter Test Notebook                                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_00%2F/lab_00.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_00/lab_00.ipynb)|
+|  01 | 04.12.2021 | Jupyter Notebook und Python                           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_01%2F/lab_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_01/lab_01.ipynb)|
+|  02 | 04.12.2021 | Datenakquise, Aufbereitung und Validierung             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_02%2F/lab_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_02/lab_02.ipynb)|
+|  03 | 04.12.2021 | Regelbasierte Analyseverfahren                         | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_03%2F/lab_03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_03/lab_03.ipynb)|
 
 
-Please note, that the creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
+Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwickeln, rechnen Sie also bitte mit kleineren Fehlern und einigen Ecken und Kanten ;)
 
-## Getting Started
+## Wie werden die Notebooks ausgeführt?
 
-Install dependencies via `pip install -r requirements.txt`.
+Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://mybinder.org/) bzw. Google Colab (https://colab.research.google.com/) oder lokal über eine Python Installation Ihres Computers ausführen.
 
-## How To Run the Lab Notebooks
+#### [Option 1] Binder Cloud Umgebung ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/main))
 
-You can run the lab Notebooks in the cloud using either [binder](https://mybinder.org/) or [Google Colab](https://colab.research.google.com/), or locally on your computer. 
+Dies ist der einfachste Weg, ein Jupyter Notebook in Ihrem Webbrowser zu starten. Klicken Sie hierzu auf den Binder-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Binder Cloud bereitgestellt. Hierzu ist keine Registrierung oder Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch jederzeit lokal auf Ihrem Computer speichern). Bitte beachten Sie, dass das Starten eines Binder Notebook's einige Zeit in Anspruch nehmen kann. 
 
-#### Binder
+Weitere Informationen können Sie der [Binder-Dokumentation](https://mybinder.readthedocs.io/en/latest/index.html) entnehmen.
 
-This is the easiest way to run a Notebook in your web browser: just click on the binder badge next to the Notebooks below and off you go. Binder is a service that lets you run Jupyter Notebooks in their cloud at no charge. There is no registration and no login required. However, keep in mind that you cannot save any data or your Notebook file in the cloud (you can save them on your computer, though). Also, starting a binder Notebook can take quite some time, but the performance during runtime is good. For more information, please refer to the [Binder documentation](https://mybinder.readthedocs.io/en/latest/index.html).
+#### [Option 2] Google Colab Umgebung ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/main))
 
-#### Google Colab
+In Analogie zu Binder lassen sich auch Colab Notebooks starten. Klicken Sie hierzu auf den Colab-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Google Cloud bereitgestellt. Hierzu benötigen Sie jedoch einen Google Account (z.B. Ihre Anmeldedaten für Google Mail). Nach erfolgreicher Anmeldung können Sie auch Colab kostenfrei nutzen. Colab bietet im Vergleich zu Binder die nachfolgenden beiden Vorteile: (1) Notebooks können direkt in Google Drive gespeichert und von dort gelesen werden; (2) Colab stellt schnelle Rechenressourcen z.B. GPU's kostenfrei zur Verfügung.
 
-Similar to binder, you just have to click the Colab badge next to the Notebooks below. All you need is a Google login (e.g., your login information for gmail) and you can use this service at no charge. Two advantages of Colab are that (1) you can save your Notebooks directly into your Google Drive and read data from there, and (2) Google provides you with some limited **GPU capabilities** free of charge (this will be an interesting feature for the coding challenge). This last feature will save you time by making the training of deep artificial neural networks much faster.
+Weitere Informationen können Sie der [Colab-Dokumentation](https://colab.research.google.com) entnehmen.
 
-#### Local Python Installation
+#### [Option 3] Lokale Python Umgebung
 
-If you prefer to run Notebooks locally on your computer, you will need to install Python. If you choose to do so, we recommend to install [Anaconda Python](https://www.anaconda.com/products/individual), a package that combines the latest version of Python with the most common supplemental modules for data science and machine learning, as well as a Jupyter Notebook server that runs on your computer locally. Check out our Python and Jupyter Notebook installation guide below for a step-by-step manual.
+Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig, Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält.
 
-To run our Notebooks locally, you can download them individually from this website, or simply clone this repository to your computer. 
+Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
+[detaillierte Installationsanleitungen](https://docs.anaconda.com/anaconda/install/) finden. 
 
-If you need help running Python and/or Jupyter Notebooks, please don't hesitate to contact us (see below)!
+Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Website herunterladen, oder einfach das gesamte Repository auf Ihren Computer klonen. Wenn Sie Hilfe bei der Ausführung von Python und/oder Jupyter Notebooks benötigen, **zögern Sie bitte nicht, uns zu kontaktieren** (siehe unten)!
 
-## Further Links
+## Fragen oder Anregungen?
 
-Python and Jupyter Notebook Installation: [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/HSG-AIML/LabML/blob/main/ml_installation_guide.pdf)
-
-Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/HSG-AIML/LabML)
-
-## Questions?
-
-Pls. don't hesitate to send us all your questions using the following mail address: 
+Bitte zögern Sie nicht, uns Ihre Fragen, Ideen bzw. Anregungen über die folgende Mailadresse zu senden:
 
 **marco (dot) schreyer (at) unisg (dot) ch**.
