@@ -1,7 +1,7 @@
 
 ## Frankfurt School Seminar - Forensische Datenanalysen
 
-Das **Forensische Datenanalysen** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für den [Lehrgang Internal Auditing] (https://aca.unisg.ch/de/education/internalauditingprogramme) an der [Universität St.Gallen (HSG)](https://www.unisg.ch/) erstellt haben. 
+Das **Forensische Datenanalysen** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für den [Lehrgang Internal Auditing](https://aca.unisg.ch/de/education/internalauditingprogramme) an der [Universität St.Gallen (HSG)](https://www.unisg.ch/) erstellt haben. 
 
 Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und verwendet diverse zusätzliche Python-Bibliotheken, wie beispielsweise die **NumPy**, **Pandas**, **Matplotlib**, **Seaborn** oder **PyTorch** Bibliothek. 
 
