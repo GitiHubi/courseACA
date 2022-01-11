@@ -19,6 +19,8 @@ Nachfolgend finden Sie unsere aktuellen Notebooks:
 |  01 | 12.01.2022 | Jupyter Notebook und Python                           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/main?filepath=lab01%2F/aca_lab01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/main/lab01/aca_lab01.ipynb)|
 |  02 | 12.01.2022 | Datenakquise, Aufbereitung und Validierung             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/main?filepath=lab02%2F/aca_lab02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/main/lab02/aca_lab02.ipynb)|
 |  03 | 12.01.2022 | Regelbasierte Analyseverfahren                         | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/main?filepath=lab03%2F/aca_lab03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/main/lab03/aca_lab03.ipynb)|
+|  04 | 12.01.2022 | Statistische Analyseverfahren                         | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/main?filepath=lab04%2F/aca_lab04.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseACA/blob/main/lab04/aca_lab04.ipynb)|
+
 
 
 Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwickeln, rechnen Sie also bitte mit kleineren Fehlern und einigen Ecken und Kanten ;)
