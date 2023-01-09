@@ -30,7 +30,7 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 ## Wie werden die Notebooks ausgeführt?
 
-Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://mybinder.org/), Gesis Binder (https://notebooks.gesis.org/binder/) oder Google Colab (https://colab.research.google.com/) oder lokal über eine Python Installation Ihres Computers ausführen.
+Sie können die Jupyter Notebooks entweder in der Cloud über (i) Binder (https://mybinder.org/), (ii) Gesis Binder (https://notebooks.gesis.org/binder/, (iii) Google Colab (https://colab.research.google.com/) oder (iv) lokal über die Python Installation Ihres Computers ausführen.
 
 #### [Option 1] Binder Cloud Umgebung ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/main))
 
