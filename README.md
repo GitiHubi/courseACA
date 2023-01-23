@@ -1,5 +1,5 @@
 
-## Lehrgang Internal Auditing - Audit Data Analytics
+## IIA Lehrgang Internal Auditing - Audit Data Analytics
 
 Das **Audit Data Analytics** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für den [Lehrgang Internal Auditing](https://aca.unisg.ch/de/education/internalauditingprogramme) an der [Universität St.Gallen (HSG)](https://www.unisg.ch/) erstellt haben. 
 
