@@ -5,7 +5,7 @@ Das **Audit Data Analytics** Repository umfasst eine Reihe von Jupyter Notebooks
 
 Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und verwendet diverse zusätzliche Python-Bibliotheken, wie beispielsweise die **NumPy**, **Pandas**, **Matplotlib**, **Seaborn** oder **PyTorch** Bibliothek. 
 
-Wir wünschen Ihnen viel Freude bei Ihrer **Revisorischen Datenanalyse**!
+Wir wünschen Ihnen viel Freude und spannende Erkentnisse bei Ihrer **Datenanalyse**!
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/main/banner.png)
 
