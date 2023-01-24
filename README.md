@@ -28,11 +28,11 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 ## Wie werden die Notebooks ausgeführt?
 
-Sie können die Jupyter Notebooks entweder über
+Sie können die verschiedenen Jupyter Notebooks entweder über
 
-- Binder (https://mybinder.org/), 
-- Gesis Binder (https://notebooks.gesis.org/binder/), 
-- Google Colab (https://colab.research.google.com/), oder 
+- Binder Notebook (https://mybinder.org/), 
+- Gesis Binder Notebook (https://notebooks.gesis.org/binder/), 
+- Google Colaboratory (https://colab.research.google.com/), oder 
 - über eine lokale IPython Installation (https://ipython.org)
 
 ausführen. Für jede der genannten Optionen haben wir nachfolgend weitere Details zusammengestellt.
