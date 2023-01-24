@@ -28,7 +28,7 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 ## Wie werden die Notebooks ausgeführt?
 
-Sie können die verschiedenen Jupyter Notebooks entweder über
+Gerne können Sie die verschiedenen Jupyter Notebooks entweder über
 
 - Binder Notebook (https://mybinder.org/), 
 - Gesis Binder Notebook (https://notebooks.gesis.org/binder/), 
