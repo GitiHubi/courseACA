@@ -30,10 +30,10 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 Sie können die Jupyter Notebooks entweder über
 
-- (i) Binder (https://mybinder.org/), 
-- (ii) Gesis Binder (https://notebooks.gesis.org/binder/), 
-- (iii) Google Colab (https://colab.research.google.com/) oder 
-- (iv) über eine lokale IPython Installation (https://ipython.org)
+- Binder (https://mybinder.org/), 
+- Gesis Binder (https://notebooks.gesis.org/binder/), 
+- Google Colab (https://colab.research.google.com/), oder 
+- über eine lokale IPython Installation (https://ipython.org)
 
 ausführen. Für jede der genannten Optionen haben wir nachfolgend weitere Details zusammengestellt.
 
